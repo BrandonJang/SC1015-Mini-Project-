@@ -1,5 +1,5 @@
 # SC1015 - Mini Project
-## About
+## :pencil:About
 
 ## Problem Statement
 
