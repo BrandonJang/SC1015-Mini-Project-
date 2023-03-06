@@ -1,4 +1,4 @@
 # SC1015
 
-# Resources
+## References
 https://www.kaggle.com/datasets/mnassrib/dow-jones-industrial-average
