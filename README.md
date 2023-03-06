@@ -4,4 +4,4 @@
 ## Problem Statement
 
 ## References
-- Dow Jones Industrial Average Dataset https://www.kaggle.com/datasets/mnassrib/dow-jones-industrial-average
+- S&P 500 Historical Data: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?select=SPX.csv
