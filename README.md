@@ -1,6 +1,7 @@
 # SC1015 - Mini Project
 ## :pencil: About
-This is our mini project for our module _SC1015 Introduction to Data Science and Artificial Inteligence_.
+This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**.
+We used S&P 500 data as our dataset.
 
 ## Problem Statement
 
