@@ -1,7 +1,7 @@
 # SC1015 - Mini Project
 ## :pencil: About
 This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**.
-The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model.
+The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model in predicting stock prices.
 
 ## Problem Statement
 
