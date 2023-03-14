@@ -1,16 +1,18 @@
 # SC1015 - Mini Project
 ## :page_with_curl: About
 This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**.
+
 The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model in predicting stock prices.
 
 ## :chart_with_upwards_trend: Problem Statement
 
+
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | - | @ |
+| Brandon Jang Jin Tian | - | @maplebj |
 | Chung Zhi Xuan | - | @spaceman03 |
-| Tee Qin Tong Bettina | - | @ |
+| Tee Qin Tong Bettina | - | @BettinaTee03 |
 
 
 ## References
