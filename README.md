@@ -8,9 +8,9 @@ The dataset we are using is S&P 500. We chose this dataset to compare the accura
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | Title |
-| Chung Zhi Xuan | Text |
-| Tee Qin Tong Bettina | Text |
+| Brandon Jang Jin Tian | - | @ |
+| Chung Zhi Xuan | - | @spaceman03 |
+| Tee Qin Tong Bettina | - | @ |
 
 
 ## References
