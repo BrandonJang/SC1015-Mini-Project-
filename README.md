@@ -7,9 +7,10 @@ The dataset we are using is S&P 500. We chose this dataset to compare the accura
 
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+|---|:---:|---|
+| Brandon Jang Jin Tian | Title |
+| Chung Zhi Xuan | Text |
+| Tee Qin Tong Bettina | Text |
 
 
 ## References
