@@ -20,3 +20,5 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 - S&P 500 Historical Data: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?select=SPX.csv
 - Python API for FRED: https://github.com/mortada/fredapi
 - Plotly: https://plotly.com/python/
+- LSTM: https://github.com/rahkum96/Predicting-Apple-Stock-Price-Using-An-LSTM
+- ARIMA:
