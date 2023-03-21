@@ -8,9 +8,9 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | - | @maplebj |
-| Chung Zhi Xuan | - | @spaceman03 |
-| Tee Qin Tong Bettina | - | @BettinaTee03 |
+| Brandon Jang Jin Tian | Data Preparation, LSTM | @maplebj |
+| Chung Zhi Xuan | Exploratory Analysis, ARIMA | @spaceman03 |
+| Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
 
 ## Conclusion
 
@@ -21,4 +21,4 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 - Python API for FRED: https://github.com/mortada/fredapi
 - Plotly: https://plotly.com/python/
 - LSTM: https://github.com/rahkum96/Predicting-Apple-Stock-Price-Using-An-LSTM
-- ARIMA:
+- ARIMA: https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
