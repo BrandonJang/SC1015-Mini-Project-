@@ -3,7 +3,7 @@
 This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**. The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model in predicting stock prices.
 
 ## :chart_with_upwards_trend: Problem Statement
-Are we able to prove S&P 500 to be a reliable index to buy? Will predicting models justify the reliability? Whether stat model and ML model be better?
+Are we able to prove S&P 500 to be a reliable index to buy? Will predicting models justify the reliability? Will Machine Learning model or Statistical model be better?
 
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
@@ -15,6 +15,7 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 ## Data Science Pipline: Ethical Considerations
 
 ## Conclusion
+In conclusion, a machine learning model (LSTM) seems to be a better model than the mathematical model (ARIMA/SARIMA) in predicting S&P 500 index price....
 
 ## :bulb: What We Learned
 
