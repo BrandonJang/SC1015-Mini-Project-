@@ -12,6 +12,8 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 | Chung Zhi Xuan | Exploratory Analysis, ARIMA | @spaceman03 |
 | Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
 
+## Data Science: Ethical Considerations
+
 ## Conclusion
 
 ## :bulb: What We Learned
