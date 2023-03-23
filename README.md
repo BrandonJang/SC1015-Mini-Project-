@@ -8,7 +8,7 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | Data Preparation, LSTM | @maplebj |
+| Brandon Jang Jin Tian | Data Preparation, LSTM | @BrandonJang |
 | Chung Zhi Xuan | Exploratory Analysis, ARIMA | @spaceman03 |
 | Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
 
