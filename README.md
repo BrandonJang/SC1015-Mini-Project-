@@ -24,4 +24,5 @@ In conclusion, a machine learning model (LSTM) seems to be a better model than t
 - Python API for FRED: https://github.com/mortada/fredapi
 - Plotly: https://plotly.com/python/
 - LSTM: https://github.com/rahkum96/Predicting-Apple-Stock-Price-Using-An-LSTM
-- ARIMA: https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
+- ARIMA: https://github.com/0xpranjal/Stock-Prediction-using-different-models
+         https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
