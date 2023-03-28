@@ -33,7 +33,7 @@ Between the statistical models, we also found that the ARIMA model seems to be m
 <br>
 Comparing between including or excluding outliers in our dataset, generally, the models give a lower RMSE when excluding outliers in the dataset. However, it does not give us an accurate and realistic representation of the real time index prices. The outliers identified are continuous over a common period of time. Hence, the outliers identified are not anomalies of the dataset and are significant values in the dataset which will influence future predictions of the index prices. **Therefore, the dataset which includes the outliers is the more accurate and realistic representation of the real time index prices.**  
 <br>
-Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 models we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is a reliable index to buy. The LSTM predicting model can justify that S&P 500 index is a reliable index to purchase.  
+**We have concluded the LSTM predicting model to be the most accurate model out of the 3 models we have analysed.** The LSTM Model predicts a steady upward trend for the S&P 500 index prices. **Hence, the LSTM predicting model can justify that S&P 500 index is a reliable index to purchase.**
 
 
 
