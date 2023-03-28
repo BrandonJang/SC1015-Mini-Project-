@@ -13,12 +13,12 @@ Are we able to prove S&P 500 to be a reliable index to buy? Will predicting mode
 | Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
 
 ## Data Science Pipline: Ethical Considerations
-1. Possibility of Reinforced Human Bias
-\nPredictive Model utilises past data to predict the possible results in the long run. The past data retrieved may be based on human decisions or human-led economic downturn. Therefore, the data used in the algorithm could possess some of these biases.
+1. Possibility of Reinforced Human Bias  
+  Predictive Model utilises past data to predict the possible results in the long run. The past data retrieved may be based on human decisions or human-led economic downturn. Therefore, the data used in the algorithm could possess some of these biases.
 2. Lack of Transparency
-\nExternal parties involved needs to understand how we gather, store and create the algorithm in order to utilise it or own it. It will be dishonest to them if there is a lack of publishing and might not give them a tailored experience.
+  External parties involved needs to understand how we gather, store and create the algorithm in order to utilise it or own it. It will be dishonest to them if there is a lack of publishing and might not give them a tailored experience.
 3. Over reliance on model.
-\nPeople who are looking into purchasing S&P 500 index may consider our model. These people may rely on our model to purchase the S&P 500 indexes. If our model gives a prediction that is not close to the real data, it might lead to a loss for investors. Especially since the models do not take into account real life circumstances such as disease outbreaks, which might lead to an unexpected change in prices of indexes. Hence, if potential investors over rely on our model to predict future indexes, it might lead to undesirable outcomes for them.
+  People who are looking into purchasing S&P 500 index may consider our model. These people may rely on our model to purchase the S&P 500 indexes. If our model gives a prediction that is not close to the real data, it might lead to a loss for investors. Especially since the models do not take into account real life circumstances such as disease outbreaks, which might lead to an unexpected change in prices of indexes. Hence, if potential investors over rely on our model to predict future indexes, it might lead to undesirable outcomes for them.
 
 
 
