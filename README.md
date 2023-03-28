@@ -3,7 +3,7 @@
 This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**. The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model in predicting stock prices.
 
 ## :chart_with_upwards_trend: Problem Statement
-Are we able to prove S&P 500 to be a reliable index to buy? Will predicting models justify the reliability? Will Machine Learning model or Statistical model be better?
+Will Machine Learning model or Statistical model be better in predicting S&P 500 index? Are we able to prove S&P 500 to be a reliable index to buy? Will predicting models justify the reliability of S&P 500? 
 
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
@@ -26,7 +26,12 @@ People who are looking into purchasing S&P 500 index may consider our model. The
 
 
 ## :bookmark_tabs: Conclusion
-In conclusion, a machine learning model (LSTM) seems to be a better model than the mathematical model (ARIMA/SARIMA) in predicting S&P 500 index price....
+Predicting models can predict S&P 500 indexes to a certain extent of accuracy. We compared the a machine learning model (LSTM) to a statistical model (ARIMA/SARIMA).  
+We found that the machine learning model (LSTM) seems to be a better model than the statistical model (ARIMA/SARIMA) in predicting S&P 500 index price. 
+Between the statistical models, we also found that the ARIMA model is more accurate than the SARIMA model in the case of S&P 500 indexes. SARIMA also takes into the seasonality of the data. However, since S&P 500 is a time series data, which is not seasonal. Hence SARIMA model led to a more inaccurate prediction as compared to ARIMA model.  
+Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is reliable index to buy. The LSTM predicting model is able to justify that S&P 500 index is a reliable index to purchase.
+
+
 
 ## :bulb: What We Learned
 
