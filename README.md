@@ -25,7 +25,7 @@ People who are looking into purchasing S&P 500 index may consider our model. The
 
 
 
-## Conclusion
+## :bookmark_tabs: Conclusion
 In conclusion, a machine learning model (LSTM) seems to be a better model than the mathematical model (ARIMA/SARIMA) in predicting S&P 500 index price....
 
 ## :bulb: What We Learned
