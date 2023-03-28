@@ -31,7 +31,7 @@ Predicting models can predict S&P 500 index prices to a certain extent of accura
 We found that the machine learning model (LSTM) seems to be a better model than the statistical models (ARIMA/SARIMA) in predicting S&P 500 index prices.
 Between the statistical models, we also found that the ARIMA model is more accurate than the SARIMA model in the case of S&P 500 indexes. SARIMA also takes into the seasonality of the data. However, since S&P 500 is a time series data, which is not seasonal. Hence SARIMA model led to a more inaccurate prediction as compared to ARIMA model.  
 <br>
-Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is reliable index to buy. The LSTM predicting model is able to justify that S&P 500 index is a reliable index to purchase.  
+Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 models we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is reliable index to buy. The LSTM predicting model is able to justify that S&P 500 index is a reliable index to purchase.  
 
 
 
