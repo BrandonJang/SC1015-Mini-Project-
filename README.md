@@ -32,5 +32,5 @@ In conclusion, a machine learning model (LSTM) seems to be a better model than t
 - S&P 500 Historical Data: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?select=SPX.csv
 - Python API for FRED: https://github.com/mortada/fredapi
 - Plotly: https://plotly.com/python/
-- LSTM:
+- LSTM: https://medium.com/the-handbook-of-coding-in-finance/stock-prices-prediction-using-long-short-term-memory-lstm-model-in-python-734dd1ed6827
 - ARIMA: https://github.com/0xpranjal/Stock-Prediction-using-different-models; https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
