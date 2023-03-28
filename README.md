@@ -28,10 +28,12 @@ People who are looking into purchasing S&P 500 index may consider our model. The
 ## :bookmark_tabs: Conclusion
 Predicting models can predict S&P 500 index prices to a certain extent of accuracy. We compared a machine learning model (LSTM) to statistical models (ARIMA/SARIMA).  
 <br>
-We found that the machine learning model (LSTM) seems to be a better model than the statistical models (ARIMA/SARIMA) in predicting S&P 500 index prices.
-Between the statistical models, we also found that the ARIMA model is more accurate than the SARIMA model in the case of S&P 500 indexes. SARIMA also takes into the seasonality of the data. However, since S&P 500 is a time series data, which is not seasonal. Hence SARIMA model led to a more inaccurate prediction as compared to ARIMA model.  
+We found that the machine learning model (LSTM) seems to give the best prediction as compared to the statistical models (ARIMA/SARIMA) in predicting S&P 500 index prices, as LSTM has the lowest Root Mean Square Error (RMSE). 
+Between the statistical models, we also found that the ARIMA model seems to be more accurate than the SARIMA model, due to ARIMA having a lower RSME than SARIMA. **However, despite the lower RMSE for ARIMA, the presented information for ARIMA seems to be unrealistic due to it not being seasonal.** SARIMA takes into the seasonality of the data.  
 <br>
-Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 models we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is reliable index to buy. The LSTM predicting model is able to justify that S&P 500 index is a reliable index to purchase.  
+Comparing between including or excluding outliers in our dataset, generally, the models give a lower RMSE when excluding outliers in the dataset. However, it does not give us an accurate and realistic representation of the real time index prices. The outliers identified are continuous over a common period of time. Hence, the outliers identified are not anomalies of the dataset and are significant values in the dataset which will influence future predictions of the index prices. **Therefore, the dataset which includes the outliers is the more accurate and realistic representation of the real time index prices.**  
+<br>
+Looking at the LSTM model, which we have concluded to be the most accurate model out of the 3 models we have analysed, we can conclude that S&P 500 is a reliable index to buy. The LSTM Model predicts a steady upward trend for the S&P 500 index prices. This tells us that the S&P 500 index is a reliable index to buy. The LSTM predicting model can justify that S&P 500 index is a reliable index to purchase.  
 
 
 
