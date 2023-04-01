@@ -35,8 +35,8 @@ People who are looking into purchasing S&P 500 index may consider our model. The
 The dataset which includes the outliers is the more accurate and realistic representation of the real-time index prices. The presented information for ARIMA seems to be unrealistic due to the predicted values not being seasonal. **We have concluded the LSTM predicting model to be the most accurate model out of the 3 models we have analysed.** The LSTM Model predicts a steady upward trend for the S&P 500 index prices. **Hence, the LSTM predicting model can justify that S&P 500 index is a reliable index to purchase.**
 
 ## :bulb: What We Learned
+- Plot interactive graphs using Plotly
 - 
-
 
 ## References
 - S&P 500 Historical Data: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?select=SPX.csv
