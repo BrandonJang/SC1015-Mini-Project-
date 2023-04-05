@@ -12,7 +12,7 @@ Will a Machine Learning model or a Statistical model be better in predicting S&P
 | Chung Zhi Xuan | Exploratory Analysis, ARIMA, SARIMA | @spaceman03 |
 | Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
 
-## Data Science Pipline: Information Prsentation
+## Data Science Pipeline: Information Prsentation
 Predicting models can predict S&P 500 index prices to a certain extent of accuracy. We compared a machine learning model (LSTM) to statistical models (ARIMA/SARIMA).   
 <br>
 **We found that the machine learning model (LSTM) seems to give the best prediction as compared to the statistical models (ARIMA/SARIMA) in predicting S&P 500 index prices, as LSTM has the lowest Root Mean Square Error (RMSE).**
@@ -21,7 +21,7 @@ Between the statistical models, we also found that the ARIMA model seems to be m
 Comparing between including or excluding outliers in our dataset, generally, the models give a lower RMSE when excluding outliers in the dataset. However, it does not give us an accurate and realistic representation of the real-time index prices. The outliers identified are continuous over a common period. Hence, the outliers identified are not anomalies of the dataset and are significant values in the dataset which will influence future predictions of the index prices. **Therefore, the dataset which includes the outliers is the more accurate and realistic representation of the real-time index prices.**  
 <br>
 
-## Data Science Pipline: Ethical Considerations
+## Data Science Pipeline: Ethical Considerations
 **1. Possibility of Reinforced Human Bias**  
 Predictive Model utilises past data to predict the possible results in the long run. The past data retrieved may be based on human decisions or human-led economic downturn. Therefore, the data used in the algorithm could possess some of these biases.   
 <br>
