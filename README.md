@@ -28,7 +28,7 @@ Predictive Model utilises past data to predict the possible results in the long 
 **2. Lack of Transparency**  
 External parties involved needs to understand how we gather, store and create the algorithm in order to utilise it or own it. It will be dishonest to them if there is a lack of publishing and might not give them a tailored experience.  
 <br>
-**3. Over reliance on model**  
+**3. Over Reliance on Model**  
 People who are looking into purchasing S&P 500 index may consider our model. These people may rely on our model to purchase the S&P 500 indexes. If our model gives a prediction that is not close to the real data, it might lead to a loss for investors. Especially since the models do not take into account real life circumstances such as disease outbreaks, which might lead to an unexpected change in prices of indexes. Hence, if potential investors over rely on our model to predict future indexes, it might lead to undesirable outcomes for them.  
 
 ## :bookmark_tabs: Conclusion
