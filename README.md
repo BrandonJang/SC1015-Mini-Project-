@@ -36,7 +36,10 @@ The dataset which includes the outliers is the more accurate and realistic repre
 
 ## :bulb: What We Learned
 - Plot interactive graphs using Plotly
-- 
+- Using the pmdarima library to build ARIMA and SARIMA model
+
+Disclaimer
+- Plotly graph cannot be seen in github (Have to download the jupyter notebook and re-run the file)
 
 ## References
 - S&P 500 Historical Data: https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data?select=SPX.csv
