@@ -38,7 +38,7 @@ The dataset which includes the outliers is the more accurate and realistic repre
 - Plot interactive graphs using Plotly
 - Using the pmdarima library to build ARIMA and SARIMA model
 
-Disclaimer
+## Disclaimer
 - Plotly graph cannot be seen in github (Have to download the jupyter notebook and re-run the file)
 
 ## References
