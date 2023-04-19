@@ -8,9 +8,9 @@ Will a Machine Learning model or a Statistical model be better in predicting S&P
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | Data Preparation, LSTM | @BrandonJang |
-| Chung Zhi Xuan | Exploratory Analysis, ARIMA, SARIMA | @spaceman03 |
-| Tee Qin Tong Bettina | Exploratory Analysis, ARIMA | @BettinaTee03 |
+| Brandon Jang Jin Tian | Data Preparation, LSTM, Informatin Presentation | @BrandonJang |
+| Chung Zhi Xuan | Exploratory Analysis, ARIMA, SARIMA, GitHub | @spaceman03 |
+| Tee Qin Tong Bettina | Exploratory Analysis, ARIMA, Ethical Consideration | @BettinaTee03 |
 
 ## :sunglasses: Data Science Pipeline: Information Presentation
 Predicting models can predict S&P 500 index prices to a certain extent of accuracy. We compared a machine learning model (LSTM) to statistical models (ARIMA/SARIMA).   
