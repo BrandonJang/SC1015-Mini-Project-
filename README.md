@@ -19,7 +19,6 @@ Predicting models can predict S&P 500 index prices to a certain extent of accura
 Between the statistical models, we also found that the ARIMA model seems to be more accurate than the SARIMA model, due to ARIMA having a lower RMSE than SARIMA. **However, the presented information for ARIMA seems to be unrealistic due to the predicted values not being seasonal.**    
 <br>
 Comparing between including or excluding outliers in our dataset, generally, the models give a lower RMSE when excluding outliers in the dataset. However, it does not give us an accurate and realistic representation of the real-time index prices. The outliers identified are continuous over a common period. Hence, the outliers identified are not anomalies of the dataset and are significant values in the dataset which will influence future predictions of the index prices. **Therefore, the dataset which includes the outliers is the more accurate and realistic representation of the real-time index prices.**  
-<br>
 
 ## :globe_with_meridians: Data Science Pipeline: Ethical Considerations
 **1. Possibility of Reinforced Human Bias**  
