@@ -1,6 +1,6 @@
 # SC1015 - Mini Project
 ## :page_with_curl: About
-This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**. The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning models and statistical analysis model in predicting stock prices.
+This is our mini project for our module **SC1015 Introduction to Data Science and Artificial Inteligence**. The dataset we are using is S&P 500. We chose this dataset to compare the accuracy of machine learning model and statistical analysis models in predicting stock prices.
 
 ## :chart_with_upwards_trend: Problem Statement
 Will a Machine Learning model or a Statistical model be better in predicting S&P 500 index? Are we able to prove S&P 500 to be a reliable index to buy? Will predicting models justify the reliability of S&P 500? 
