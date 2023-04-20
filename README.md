@@ -37,7 +37,7 @@ The dataset which includes the outliers is the more accurate and realistic repre
 - Plot interactive graphs using Plotly
 - Using the pmdarima library to build ARIMA and SARIMA model
 - The selection of relevant features or variables is essential to build accurate predictive models. Factors such as macroeconomic and commercial economies of scale indicators can be important inputs
-- It is essential to properly clean and prepare our data before training the predictive models. The models are affected by how accurate, complete, and consistent our data is
+- The performance of predictive models can be impacted by the accuracy, completeness, and consistency of the data used for training, emphasizing the crucial role of data quality.
 
 ## Disclaimer
 - Plotly graph cannot be seen in github (Have to download the jupyter notebook and re-run the file)
