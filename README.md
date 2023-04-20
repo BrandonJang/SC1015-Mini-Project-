@@ -8,7 +8,7 @@ Will a Machine Learning model or a Statistical model be better in predicting S&P
 ## :busts_in_silhouette: Our Team
 | Name | Parts Done | Github ID |
 |---|:---:|---|
-| Brandon Jang Jin Tian | Data Preparation, LSTM, Informatin Presentation | @BrandonJang |
+| Brandon Jang Jin Tian | Data Preparation, LSTM, Information Presentation | @BrandonJang |
 | Chung Zhi Xuan | Exploratory Analysis, ARIMA, SARIMA, GitHub | @spaceman03 |
 | Tee Qin Tong Bettina | Exploratory Analysis, ARIMA, Ethical Consideration | @BettinaTee03 |
 
@@ -34,9 +34,11 @@ People who are looking into purchasing S&P 500 index may consider our model. The
 ## :bookmark_tabs: Conclusion
 The dataset which includes the outliers is the more accurate and realistic representation of the real-time index prices. The presented information for ARIMA seems to be unrealistic due to the predicted values not being seasonal. **We have concluded the LSTM predicting model to be the most accurate model out of the 3 models we have analysed.** The LSTM Model predicts a steady upward trend for the S&P 500 index prices. **Hence, the LSTM predicting model can justify that S&P 500 index is a reliable index to purchase.**
 
-## :bulb: What We Learned
+## :bulb: What We Have Learnt
 - Plot interactive graphs using Plotly
 - Using the pmdarima library to build ARIMA and SARIMA model
+- The selection of relevant features or variables is essential to build accurate predictive models. Factors such as macroeconomic and commercial economies of scale indicators can be important inputs
+- It is essential to properly clean and prepare our data before training the predictive models. The models are affected by how accurate, complete, and consistent our data is
 
 ## Disclaimer
 - Plotly graph cannot be seen in github (Have to download the jupyter notebook and re-run the file)
